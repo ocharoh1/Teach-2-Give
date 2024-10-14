@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://MAURICE-MICHAEL-a0koi2.us-east-1.xata.sh/db/Events",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
